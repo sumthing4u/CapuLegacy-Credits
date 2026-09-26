@@ -1,0 +1,9 @@
+- Duttbust and Banana Analytics for "Capuchin"
+- JumpyMonkey for starting the original project
+- CBB, Camelleo, Kosher, Nox, Anemunt, Tront, Duck, and Duttbust for development, models, maps, networking, and more
+- Axol_e for models, textures, sfx, and more
+- CyberBricks for the logo, and several pieces of art
+- Overlay, and Galaxy.mp3 for making multiple music pieces and sound effects
+- Coffiiski for the CapuLegacy name idea; "WAIT what about capuchin legacy"
+- Geobyte, Kiyluh, Rexrox, Jet, Atlas, and Biggie for making models
+- Nelom for the amazing cbb badge/cardboard cutout
